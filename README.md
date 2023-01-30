@@ -1,14 +1,15 @@
-### Olá 😀! Eu sou o Igor Gomes ✌️
+## Hello World! Eu sou o Igor 😀✌️
 
-Sou formado em Sistema de Informação, atualmente trabalho como programador trainner<br/>
-Continuo meus estudos em programação para minha evolução pessoal e profissional<br/>
-Segue abaixo meu links para contato:
+Sou formado em Sistema de Informação, atualmente trabalho como programador trainee 🧑‍🎓 👨‍💻<br/>
+Continuo meus estudos em programação evoluindo a cada dia 👨‍💻 ✌️<br/>
+
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=tokyonight)
+
+<br/>
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-gomes-de-brito/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igoor_goomes?igshid=ZmZhODViOGI=)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igorgomesdebrito@gmail.com)
-
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=tokyonight)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561995978558&text=Ol%C3%A1.%20vi%20seu%20repositorio%20no%20github.)
 
 <div style="display: inline-block;"><br/>
         <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
