@@ -2,9 +2,6 @@
 
 Sou formado em Sistema de Informação, atualmente trabalho como programador trainee 🧑‍🎓 👨‍💻<br/>
 Continuo meus estudos em programação evoluindo a cada dia 👨‍💻 ✌️<br/>
-
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=tokyonight)
-
 <br/>
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-gomes-de-brito/)
