@@ -16,4 +16,4 @@ Continuo meus estudos em programação evoluindo a cada dia 👨‍💻 ✌️<b
         <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
         <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div><br/>
-![igoor-goomes GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=solarized-dark)
+<!-- ![igoor-goomes GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=solarized-dark) -->
