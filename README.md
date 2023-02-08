@@ -4,7 +4,7 @@ Sou formado em Sistema de Informação, atualmente trabalho como programador tra
 Continuo meus estudos em programação evoluindo a cada dia 👨‍💻 ✌️<br/>
 <br/>
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-gomes-de-brito/)
+<!-- [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-gomes-de-brito/) -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igoor_goomes?igshid=ZmZhODViOGI=)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561995978558&text=Ol%C3%A1.%20vi%20seu%20repositorio%20no%20github.)
 
