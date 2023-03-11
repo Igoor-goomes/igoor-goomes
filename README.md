@@ -1,6 +1,6 @@
 ## Hello World! Eu sou o Igor 😀✌️
 
-Sou formado em Sistema de Informação, atualmente trabalho como programador trainee 🧑‍🎓 👨‍💻<br/>
+Sou formado em Sistema de Informação, atualmente trabalho com programação, desenvolvendo em PHP com Framework Laravel 🧑‍🎓 👨‍💻<br/>
 Continuo meus estudos em programação evoluindo a cada dia 👨‍💻 ✌️<br/>
 <br/>
 
