@@ -14,6 +14,6 @@ Continuo meus estudos em programação evoluindo a cada dia 👨‍💻 ✌️<b
         <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img align="center" alt="php7" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 <!-- ![igoor-goomes GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=solarized-dark) -->
