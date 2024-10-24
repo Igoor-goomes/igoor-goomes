@@ -3,8 +3,6 @@ Sou formado em Sistema da Informação👨🏻‍🎓<br/>
 27 anos / Casado ✌️❤️ <br/>
 GO -> DF 📍<br/>
 Atualmente trabalho como Desenvolvedor PHP Jr 👨🏻‍💻<br/>
-Também faço atualmente uma pós-graduação em Arquitetura de Software Distribuídos pela Pontifícia Universidade Católica
-de Minas Gerais - PUC Minas<br/>
 Aqui guardo todos os meus projetos pessoais...💻<br/>
 <div style="display: inline-block;">
         <h3>Tecnologias</h3>
