@@ -1,6 +1,6 @@
 ## Opá! Eu sou o Igor 😀✌️
 Sou formado em Sistema da Informação👨🏻‍🎓<br/>
-27 anos / Casado ✌️❤️ <br/>
+28 anos / Casado ✌️❤️ <br/>
 GO -> DF 📍<br/>
 Atualmente trabalho como Desenvolvedor PHP Jr 👨🏻‍💻<br/>
 Aqui guardo todos os meus projetos pessoais...💻<br/>
