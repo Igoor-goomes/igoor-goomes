@@ -1,24 +1,23 @@
-## Opá! Eu sou o Igor 😀✌️
-Sou formado em Sistema da Informação👨🏻‍🎓<br/>
-28 anos / Casado ✌️❤️ <br/>
-GO -> DF 📍<br/>
-Atualmente trabalho como Desenvolvedor PHP Jr 👨🏻‍💻<br/>
-Aqui guardo todos os meus projetos pessoais...💻<br/>
-<div style="display: inline-block;">
-        <h3>Tecnologias</h3>
-        <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img align="center" alt="php7" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div><br/>
-<!-- <h3>Contatos:</h3>
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561995978558&text=Ol%C3%A1.%20vi%20seu%20repositorio%20no%20github.)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igoor_goomes?igshid=ZmZhODViOGI=) -->
+## Olá, podem me chamar de Igor 😀✌️
+Sou desenvolvedor back-end pleno focado no ecossistema PHP, com sólida experiência no desenvolvimento e manutenção de sistemas críticos.
+Meu trabalho consiste em transformar desafios complexos em soluções escaláveis e de alta performance, utilizando as melhores práticas do mercado.<br/>
+
+### Hard Skills (Habilidades Técnicas)
+- 💻 Backend: Desenvolvimento robusto com PHP e o framework Laravel.<br/>
+- 🗃️ Bancos de Dados: Expertise em bancos de dados relacionais como Oracle SQL, MySQL e PostgreSQL, incluindo otimização de queries complexas.<br/>
+- 🔗 APIs: Criação e integração de APIs RESTful para garantir a comunicação eficiente entre sistemas.<br/>
+- 🚀 Qualidade e Processos: Comprometido com a entrega de código limpo e de alta qualidade, seguindo metodologias ágeis como Scrum e Kanban.<br/>
+- ⚙️ Metodologias: Experiência prática em ambientes que utilizam metodologias ágeis como Scrum e Kanban para entregas de alta qualidade.<br/>
+
+### Soft Skills (Habilidades Comportamentais)
+- **Comprometimento com a Qualidade:** Tenho grande atenção aos detalhes eu me esforço bastante para entregar um código limpo, testável e de alta performance.
+- **Colaboração e Comunicação:** Acredito na força do trabalho em equipe e com isso me comunico de forma clara e constante para garantir o alinhamento e o sucesso dos projetos.
+- **Resolução de Problemas:** O meu foco é encontrar a causa raiz dos desafios para implementar soluções eficazes e duradouras.
+- **Adaptabilidade:** Consigo me adaptar a novas tecnologias e mudanças de prioridade, mantendo o foco no objetivo final.
+- **Disciplina e Organização:** Utilizo a organização como base para gerenciar minhas tarefas, cumprir prazos e manter a consistência do trabalho feito.
+
+### Meu objetivo é contribuir para projetos que geram impacto real, aplicando meu conhecimento para construir soluções estratégicas, eficientes e inovadoras.
+         
 
 
-<!-- <div style="display: inline-block;">
-        Jogos <br/>
-        </div> -->
-<!-- ![igoor-goomes GitHub stats](https://github-readme-stats.vercel.app/api?username=igoor-goomes&show_icons=true&theme=solarized-dark) -->
+
