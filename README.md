@@ -1,22 +1,28 @@
-## Olá, podem me chamar de Igor 😀✌️
-Sou desenvolvedor back-end pleno focado no ecossistema PHP, com sólida experiência no desenvolvimento e manutenção de sistemas críticos.
-Meu trabalho consiste em transformar desafios complexos em soluções escaláveis e de alta performance, utilizando as melhores práticas do mercado.<br/>
+## Olá, eu sou o Igor 😀✌️
+Desenvolvedor Back-end Pleno focado no ecossistema PHP. Atuo na construção e manutenção de sistemas críticos, transformando problemas complexos em soluções escaláveis, performáticas e sustentáveis.<br/>
 
-### Hard Skills (Habilidades Técnicas)
-- 💻 Backend: Desenvolvimento robusto com PHP e o framework Laravel.<br/>
-- 🗃️ Bancos de Dados: Expertise em bancos de dados relacionais como Oracle SQL, MySQL e PostgreSQL, incluindo otimização de queries complexas.<br/>
-- 🔗 APIs: Criação e integração de APIs RESTful para garantir a comunicação eficiente entre sistemas.<br/>
-- 🚀 Qualidade e Processos: Comprometido com a entrega de código limpo e de alta qualidade, seguindo metodologias ágeis como Scrum e Kanban.<br/>
-- ⚙️ Metodologias: Experiência prática em ambientes que utilizam metodologias ágeis como Scrum e Kanban para entregas de alta qualidade.<br/>
+### 💻 Hard Skills
+- **Backend:** PHP 8+, Laravel, arquitetura MVC, desenvolvimento de APIs RESTful  
+- **Banco de Dados:** Oracle, MySQL e PostgreSQL (modelagem, otimização de queries e performance tuning)  
+- **Integrações:** Consumo e construção de APIs, integrações entre sistemas e automações  
+- **Boas Práticas:** Clean Code, princípios SOLID, versionamento com Git  
+- **Metodologias Ágeis:** Scrum e Kanban
 
-### Soft Skills (Habilidades Comportamentais)
-- **Comprometimento com a Qualidade:** Tenho grande atenção aos detalhes eu me esforço bastante para entregar um código limpo, testável e de alta performance.
-- **Colaboração e Comunicação:** Acredito na força do trabalho em equipe e com isso me comunico de forma clara e constante para garantir o alinhamento e o sucesso dos projetos.
-- **Resolução de Problemas:** O meu foco é encontrar a causa raiz dos desafios para implementar soluções eficazes e duradouras.
-- **Adaptabilidade:** Consigo me adaptar a novas tecnologias e mudanças de prioridade, mantendo o foco no objetivo final.
-- **Disciplina e Organização:** Utilizo a organização como base para gerenciar minhas tarefas, cumprir prazos e manter a consistência do trabalho feito.
+### 🤝 Soft Skills
+- Comprometimento com qualidade e boas práticas  
+- Comunicação clara e trabalho em equipe  
+- Forte capacidade analítica e resolução de problemas  
+- Adaptabilidade a novos desafios e tecnologias  
+- Organização e disciplina na gestão de demandas
 
-### Meu objetivo é contribuir para projetos que geram impacto real, aplicando meu conhecimento para construir soluções estratégicas, eficientes e inovadoras.
+### 📌 Atualmente estudando
+- Arquitetura de Software
+- APIs escaláveis com Laravel
+- Boas práticas de arquitetura e padrões de projeto
+
+### 🎯 Objetivo
+Contribuir em projetos que gerem impacto real, utilizando tecnologia como ferramenta estratégica para entregar soluções eficientes, escaláveis e bem estruturadas.
+
          
 
 
